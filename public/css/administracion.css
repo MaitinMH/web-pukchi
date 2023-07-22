@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sub_content .content_administracion .title_admins{
+	text-align:center;
+	}
+.sub_content .content_administracion .sub-menu-adm ul, .sub_content  .content_ventas .sub-menu-adm ul{
+	background-color: #FFF;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	display: flex;
+	}
+.sub_content .content_administracion .sub-menu-adm ul li, .sub_content  .content_ventas .sub-menu-adm ul li{
+	padding: 10px;
+	border-right: 1px solid #a8a8a8;
+	float: left;
+	}
+.sub_content .content_administracion .sub-menu-adm ul li a, .sub_content  .content_ventas .sub-menu-adm ul li a{
+	text-decoration: none;
+	color: #646464;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	}
+.sub_content .content_administracion .content_form_admins{
+	padding:10px;
+	}
+
+.sub_content .content_administracion .content_form_admins form{
+	font-size:17px;
+	color:#646464;
+	}
+.content_administracion .content_form_admins form fieldset{
+	border: 1px groove #EAEAEA;
+	}
+.content_administracion .content_form_admins form legend{
+	font-size:20px;
+	font-weight:bold;
+	}
+.content_administracion .content_form_admins form input[type="text"]{
+	width:100%;
+	height:22px;
+	outline:0px;
+	padding:2px;
+	color:#646464;
+	font-size:13px;	
+	/*border-left:2px solid #999;
+	border-top:2px solid #999;*/
+	}
+.content_administracion .content_form_admins form label{
+	  /*width: 167px;*/
+	  padding: 8px;
+	  display: inline-block;
+	  /*text-align: right;	*/
+	}
+.content_form_admins form .datos_form{
+	width:66%;
+	float:left
+	}
+.content_form_admins form .datos_form_img{
+	/*background:#FFF;
+	width: 34%;
+ 	float: left;
+ 	text-align: center;*/
+	}
+	
+.content_form_admins form .datos_form, .datos_form_img{
+	/*float:left*/
+	}
+
+.content_form_admins form .datos_form_img .img_emp{
+	/*width:200px;
+	margin:0 auto;*/
+	}
+	
+.content_form_admins form input[type="button"]{
+	margin-top:20px;		
+	float:right;
+	}
+.content_form_admins  form .tbl_form td{
+	background:none;
+	border:none;
+	}
+
+.content_form_admins form input[type="submit"]{
+	float: right;
+  	margin-top: 20px;		
+	}
+.sub_content  table tr.row-red td{
+	background-color: #f7676c;
+	color: #FFF;
+	border: 1px solid #FFF;
+}

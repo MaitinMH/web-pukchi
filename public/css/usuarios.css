@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+.main_section .middle_section{
+	height:auto;
+	}
+	
+.sub_content .content_usuarios .title_usuarios{
+	text-align:center;
+	padding-bottom:20px;
+	}
+/*ESTILO TABLA MODULO*/	
+	
+.sub_content .content_usuarios .table_usuarios{	
+	height:400px;
+	background:#FFF;
+	overflow-y: auto;
+	}
+.sub_content .content_usuarios .table_usuarios table{
+	width:100%;
+	border-collapse: collapse;
+	color:#646464;
+	}
+.sub_content .content_usuarios .table_usuarios table, th{
+	/*background:#CCCCCC;*/
+	}
+.sub_content .content_usuarios .table_usuarios table, th, td{
+	/*border: 1px groove #EAEAEA;*/
+}
+.sub_content .content_usuarios .table_usuarios table, td{
+	background:#FFFFFF;
+	}
+
+/*FIN ESTILO TABLA MODULO*/
+
+/*.sub_content .content_usuarios .table_controls{
+	height:100px;
+	padding-top:20px;
+	}*/
+.content_usuarios .table_controls .btn_table{
+	width:560px;
+	height:40px;	
+	float:right;
+	}
+.content_usuarios .table_controls .btn_table a{
+	margin-right:10px;
+	float:left;
+	/*display: table-cell;*/	
+	}
+	
+/*ADD USU*/
+.content_usuarios .block_agregar form{
+	font-size:17px;
+	color:#646464;
+	}
+.content_usuarios .block_agregar form fieldset{
+	border: 1px groove #EAEAEA;
+	}
+.content_usuarios .block_agregar form legend{
+	font-size:20px;
+	font-weight:bold;
+	}	
+.content_usuarios .block_agregar form label{
+	  width: 167px;
+	  padding: 8px;
+	  display: inline-block;
+	  /*text-align: right;	*/
+	}
+.content_usuarios .block_agregar form input[type="text"]{
+	width:100%;
+	height:22px;
+	outline:0px;
+	padding:2px;
+	color:#646464;
+	font-size:13px;	
+	/*border-left:2px solid #999;
+	border-top:2px solid #999;*/
+	}
+.content_usuarios .block_agregar form input[type="password"]{
+	width:100%;
+	height:22px;
+	outline:0px;
+	padding:2px;
+	color:#646464;
+	font-size:13px;	
+	/*border-left:2px solid #999;
+	border-top:2px solid #999;*/
+	}
+
+.content_usuarios .block_agregar form input[type="submit"]{
+	float: right;
+  	margin-top: 20px;		
+	}
+	
+.content_usuarios .block_agregar form input[type="button"]{
+	float: right;
+  	margin-top: 20px;		
+	}
+	
+.content_usuarios .block_agregar form .select_form{
+	width:100%;
+	height:32px;
+	outline:0px;
+	padding:2px;
+	color:#646464;
+	font-size:14px;	
+	/*border-left:2px solid #999;
+	border-top:2px solid #999;*/
+	}
+.content_usuarios .block_agregar .datos_form{
+	/*width:66%;
+	float:left*/
+	}
+.content_usuarios .block_agregar .datos_form .tbl_form td{
+	background:none;
+	border:none;
+	}
+	
+.content_usuarios .block_agregar .datos_form_img{
+	background:#FFF;
+	width: 34%;
+ 	float: left;
+ 	text-align: center;
+	}
+.content_usuarios .block_agregar .datos_form #text_cod, #sel_rol{
+	/*max-width:171px;*/
+	}
+.content_usuarios .block_agregar .datos_form #lbl_rol{
+	width:31px;
+	}
+
+.content_usuarios .block_agregar .miperfil_menu_head{
+	width:100%;
+	display:table;
+	background:#646464;
+	padding: 0px 0px 0px 3px;
+	box-sizing:border-box;
+	margin-bottom:10px;
+	}
+
+.content_usuarios .block_agregar .miperfil_menu_head>div{
+	color: #f7f7f7;
+	font-weight:bold;
+	font-size:16px;
+	float:left;
+	padding:5px;
+	box-sizing:border-box;
+	margin-top:3px;
+	/*border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;*/
+	}
+.content_usuarios .block_agregar .miperfil_menu_head>div:first-child{
+	background:#F2F2F2;
+	color:#646464;
+	}	
+.content_usuarios .block_agregar #fonrm_admins2{
+	display:none;
+	}
+
+/*RESPONSIVE CSS*/
+@media screen and (max-width:800px){
+	.main_section .middle_section{
+		width: 100%;
+		height:auto;
+		padding: 15px 0px 0px 0px;
+	}
+}
