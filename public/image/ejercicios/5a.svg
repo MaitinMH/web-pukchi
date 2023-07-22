@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="84.6667mm" height="84.6667mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 384.81 384.81"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="465" font-variant="normal" class="str0" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Cartoonero">
+		<font-face-src>
+			<font-face-name name="Cartoonero"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="5" horiz-adv-x="368" d="M299.833 694.834c10.666,-0.333715 20.9996,-9 30.667,-25.8339l-1.33357 -23.9991c-0.66743,-3.83321 -9.33372,-11.3334 -26.0001,-22.5006l-11.6671 0.999857c-35.8325,2.33343 -109.332,1.49979 -220.666,-2.33343 -2.001,-112.333 -1.66729,-191.166 0.999857,-236.333l3.83321 -0.499928c52.5002,29.001 97.3327,42.1666 134.833,39.5008 72.4999,-4.16693 116.5,-69.8341 131.834,-196.834 0.332427,-31.1669 0.332427,-53.8325 0,-67.8331l-2.001 -28.3336c-4.83307,-78.6666 -65.1659,-121.499 -180.666,-128.333l-16.1665 0.999857c-73.8335,4.16693 -125.334,35.3339 -154.167,93.667l0.333715 3.83321c5.00057,24.1666 17.6663,35.3339 38.1672,33.8341 7.1665,-0.333715 26.3326,-13.5006 57.6657,-39.667 20.8334,-11.9996 43.1678,-18.8336 66.8345,-20.4996 65.1659,-3.83321 103.833,16.4989 116.166,61.1665l1.99971 31.6669c-2.33343,117.5 -22.4994,177.499 -60.5004,180.166l-16.1665 1.49979c-23.6667,1.33357 -70.5002,-18.6661 -140.167,-59.6667l-11.6659 0.999857c-34.5002,2.66714 -49.1669,47.5009 -44.0001,134.834 -0.999857,104.833 -0.66743,171.666 0.999857,200.666 3.667,50.5005 41.1668,73.3336 112.833,68.8342 88.1665,2.33343 150.833,2.33343 188,0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Cartoonero";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:0.98;stroke-miterlimit:22.9256}
+    .str1 {stroke:#00A859;stroke-width:0.35;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FDD2B3}
+    .fil1 {fill:#00A859}
+    .fnt0 {font-weight:normal;font-size:352.75px;font-family:'Cartoonero'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0" y="-0" width="384.81" height="384.81" rx="28.99" ry="38.48"/>
+  <text x="133.85" y="316.19"  class="fil1 str1 fnt0">5</text>
+ </g>
+</svg>
